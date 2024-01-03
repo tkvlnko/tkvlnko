@@ -4,7 +4,7 @@
 
 I am a student and I am currently receiving my degree in Computer Science at HSE in Moscow.
 
-* 🖥️  See my portfolio at [myportfolio](http://myportfolio.com)
+* 🖥️  See my portfolio at [myportfolio](http://myportfolio.com) (does not work yet)
 * ✉️  You can contact me at [tayaibragimova@gmail.com](mailto:tayaibragimova@gmail.com)
 
 <br />
@@ -19,12 +19,7 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 * Core
   <p align="center">
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <br />
-    <br />
-
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <br />
-    <br />
     <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     
   </p>
