@@ -69,14 +69,13 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 
 <p align="center">
   <img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=tkvlnko&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5"/>
-  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkvlnko&theme=tokyonight&hide_border=true&border_radius=5"/>
+  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkvlnko&theme=tokyonight&hide_border=true&border_radius=5&hide_progress=true"/>
 </p>
 
 
 ---
 
 
-#
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
