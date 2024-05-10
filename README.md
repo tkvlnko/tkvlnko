@@ -67,13 +67,11 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 
 ---
 
-### ==> Stats
 
 <img style="margin:10px; padding:10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=tkvlnko&show_icons=true&theme=tokyonight"/>
 <img style="margin:10px; padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkvlnko&theme=tokyonight&hide_progress=true"/>
-<img style="margin:10px; padding:10px;" src="https://github-readme-streak-stats.herokuapp.com?user=tkvlnko&theme=tokyonight"/>
 
-
+---
 
 
 #
