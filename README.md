@@ -10,8 +10,8 @@ I am a student and I am currently receiving my degree in Computer Science at HSE
 <br />
 <div align="center"><a href="https://www.github.com/tkvlnko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<!-- <img src="https://komarev.com/ghpvc/?username=tkvlnko&style=for-the-badge&color=blue" alt=""/>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/tkvlnko) -->
+<img src="https://komarev.com/ghpvc/?username=tkvlnko&style=for-the-badge&color=blue" alt=""/>
+<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/tkvlnko) -->
 </div>
 
 
