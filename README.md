@@ -57,8 +57,15 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 </div>
 
 
+---
 
-#
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=tkvlnko&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
 
 ### ==> Stats
 
