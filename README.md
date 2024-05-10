@@ -10,7 +10,10 @@ I am a student and I am currently receiving my degree in Computer Science at HSE
 <br />
 <div align="center"><a href="https://www.github.com/tkvlnko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<img src="https://komarev.com/ghpvc/?username=tkvlnko&style=for-the-badge&color=blue" alt=""/></div>
+<img src="https://komarev.com/ghpvc/?username=tkvlnko&style=for-the-badge&color=blue" alt=""/>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/tkvlnko)
+</div>
+
 
 
 ## Languages and Tools 
@@ -82,7 +85,7 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory.
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/tkvlnko)
+
 [website]: https://tkvlnko.com
 [telegram]: t.me/tkvlnko
 
