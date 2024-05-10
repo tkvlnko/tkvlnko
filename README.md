@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 
 <br /><br />
   
-* Front-end + Back-end
+Front-end + Back-end
 
   | HTML | CSS | jQuery | Tailwind | Bootstrap | Vite | React | NodeJS | Flask |
 |------|-----|--------|----------|-----------|------|-------|--------|-------|
