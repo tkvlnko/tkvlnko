@@ -68,8 +68,8 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 ---
 
 <p align="center">
-<img width="400" height="120" src="https://github-readme-stats.vercel.app/api?username=tkvlnko&show_icons=true&theme=tokyonight"/>
-<img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkvlnko&theme=tokyonight&hide_progress=true"/>
+  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=tkvlnko&show_icons=true&theme=tokyonight"/>
+  <img width="500" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkvlnko&theme=tokyonight&hide_progress=true"/>
 </p>
 
 
