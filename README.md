@@ -86,7 +86,7 @@ src="https://img.shields.io/github/followers/tkvlnko?logo=github&style=for-the-b
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory.
+   
 
 ### How to reach me :mailbox:
 
