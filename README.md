@@ -8,6 +8,7 @@ However, before entering the university I already had numerous projects in web-d
 
 
 
+
 * 🖥️  See my portfolio at [myportfolio](http://myportfolio.com) (does not work yet)
 * ✉️  You can contact me at [tayaibragimova@gmail.com](mailto:tayaibragimova@gmail.com)
 
