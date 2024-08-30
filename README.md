@@ -1,6 +1,6 @@
 ## Hi! My name is Taya Kovalenko
 
-**`Frontend Developer`**
+**`Frontend Developer & Data Scientist`**
 
 I am a student from Moscow and I am currently receiving my degree in Computer Science at HSE. My program is called "Data Science and Business Analytics" and now I'm mostly intersted in DS, Machine Learning and AI (as the most fast-evolving field with cutting-edge technologies), and due to that I spend a great deal of time making a strong foundation in linear algebra, abstract algebra, calculus and discrete math.
 
