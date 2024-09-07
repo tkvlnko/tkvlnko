@@ -4,7 +4,6 @@
 
 I am a student from Moscow and I am currently receiving my degree in Computer Science at HSE. My program is called "Data Science and Business Analytics" and now I'm mostly intersted in DS, Machine Learning and AI (as the most fast-evolving field with cutting-edge technologies), and due to that I spend a great deal of time making a strong foundation in linear algebra, abstract algebra, algorithms & data structures, calculus and discrete math.
 
-
 However, before entering the university I already had numerous projects in web-dev, and it is still the field where I feel most comfortable and where I have some skills due to 3-year experience. I especially enjoy designing apps and creating cool interfaces on my own (frontend), but I also have a little of experience in backend, thought I tried it just for fun. Currently I'm still studying web-dev at Hexlet (one of the biggest programming schools in Russia).
 
 
